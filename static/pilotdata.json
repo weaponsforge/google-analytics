@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Heero Yuy",
+    "gundam": "Wing Zero",
+    "code": "one"
+  },
+  {
+    "name": "Duo Maxwell",
+    "gundam": "Death Scythe Hell",
+    "code": "two"
+  },
+  {
+    "name": "Trowa Barton",
+    "gundam": "Heavy Arms",
+    "code": "three"
+  },
+  {
+    "name": "Quatre Winner",
+    "gundam": "Sandrock",
+    "code": "four"
+  },
+  {
+    "name": "Wufei",
+    "gundam": "Nataku",
+    "code": "five"
+  }     
+]
